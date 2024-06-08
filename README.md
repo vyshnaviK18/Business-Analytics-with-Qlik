@@ -7,7 +7,8 @@ Problem Statement:
 - E-commerce company facing challenges in supply chain management despite having access to vast data across orders, customers, products, and logistics
 - Issues included late deliveries, inefficient shipping routes, inadequate inventory management, and missed growth opportunities
 
-![Screenshot 2024-05-29 134614](https://github.com/vyshnaviK18/Business-Analytics-with-Qlik/assets/113926615/c5030374-ee0e-439a-9c23-a0e3461aa79c)
+![Mind Map for Attributes](https://github.com/vyshnaviK18/Business-Analytics-with-Qlik/assets/113926615/5fc92047-81fc-49d9-b375-744ef1342a0c)
+
 (Mapping out the variours department categorized fields in the dataset)
   
 Key Visualizations:
