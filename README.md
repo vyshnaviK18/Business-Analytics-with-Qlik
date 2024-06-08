@@ -1,9 +1,14 @@
 # Data-Driven-Innovations-In-Supply-Chain-Management-With-Qlik-Insights
 Virtual Internship Program-Business Analytics with Qlik
 
+![Screenshot 2024-05-29 134614](https://github.com/vyshnaviK18/Business-Analytics-with-Qlik/assets/113926615/d3078727-334d-470a-a018-ea9a047b3f5f)
+
 Problem Statement:
 - E-commerce company facing challenges in supply chain management despite having access to vast data across orders, customers, products, and logistics
 - Issues included late deliveries, inefficient shipping routes, inadequate inventory management, and missed growth opportunities
+
+![Screenshot 2024-05-29 134614](https://github.com/vyshnaviK18/Business-Analytics-with-Qlik/assets/113926615/c5030374-ee0e-439a-9c23-a0e3461aa79c)
+(Mapping out the variours department categorized fields in the dataset)
   
 Key Visualizations:
 Some of the key visualizations included:
@@ -21,6 +26,8 @@ Key Visualization 1: Order Status Distribution
 Key Visualization 2: Late Risk Deliveries in Order Countries  
 - Heat map visualization identifying regional hotspots with highest risk of late deliveries
 - Crucial for optimizing logistics strategies and addressing location-specific challenges
+
+![Screenshot 2024-06-06 235759](https://github.com/vyshnaviK18/Business-Analytics-with-Qlik/assets/113926615/ffed5fea-1e5c-44d8-860d-24a96414a301)
 
 Data Integration with Qlik Sense:
 - Leveraged powerful Qlik Sense data analytics and visualization platform
