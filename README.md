@@ -1,6 +1,9 @@
 # Data-Driven-Innovations-In-Supply-Chain-Management-With-Qlik-Insights
 Virtual Internship Program-Business Analytics with Qlik
 
+
+Video Demonstration Link: https://drive.google.com/file/d/1JWKVtUwmxXZHaybspmQOqwL_1v53czw9/view?usp=sharing
+
 ![Screenshot 2024-05-29 134614](https://github.com/vyshnaviK18/Business-Analytics-with-Qlik/assets/113926615/d3078727-334d-470a-a018-ea9a047b3f5f)
 
 Problem Statement:
@@ -38,6 +41,11 @@ Data Integration with Qlik Sense:
 Key Visualization 3: Customer Growth Over the Years
 - Visualization of customer growth trend over the years
 - Identification of areas for improvement and strategies to foster customer loyalty and mitigate churn
+
+  
+![Screenshot 2024-06-09 190408](https://github.com/vyshnaviK18/Business-Analytics-with-Qlik/assets/113926615/9b7e38bc-26b5-427f-a787-cab598daf5eb)
+
+
 
 Conclusion:
 - Demonstrated transformative power of data-driven innovation in supply chain management
